@@ -1,4 +1,4 @@
-# 👋 Lucio Oliveira
+# Lucio Oliveira
 
 **`Estudante de programação`**
 
@@ -100,5 +100,6 @@ Olá, me chamo Lúcio Oliveira, tenho 45 anos, sou estudante de programação, A
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=luciojs-Oliveira&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
+  
 
 </p>
